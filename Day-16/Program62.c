@@ -1,4 +1,4 @@
-//
+//program to Find maximum frequency element.
 #include <stdio.h>
 
 int main() {

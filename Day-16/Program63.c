@@ -1,4 +1,4 @@
-//
+// program to Find pair with given sum
 #include <stdio.h>
 
 int main() {

@@ -1,4 +1,4 @@
-//
+// program to Remove duplicates from array
 #include <stdio.h>
 
 int main() {
